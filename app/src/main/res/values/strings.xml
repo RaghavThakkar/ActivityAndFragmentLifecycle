@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">raghavthakkar_COMP304Sec002_Lab1_Ex2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_activity_text">Main Activity\n</string>
+    <string name="send">Send</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_data">Enter data</string>
+    <string name="life_cycle_methods_demo">Life Cycle Methods Demo</string>
+    <string name="on_start">On start</string>
+    <string name="on_create_view">OnCreateView</string>
+</resources>
